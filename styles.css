@@ -2,3 +2,7 @@ body {
    text-align: center;
    font-family: sans-serif;
 }
+
+li{
+   padding-width: 50px 50px;
+}
